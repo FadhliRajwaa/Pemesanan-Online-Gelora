@@ -29,7 +29,7 @@ document.getElementById('form-all').addEventListener('submit', async function (e
   // ];
 
   const endpoints = [
-    'https://pemesanan-online-gelora.vercel.app/api/orders',
+    'https://pemesanan-online-gelora.vercel.app/orders',
     'https://pemesanan-online-gelora.vercel.app/api/products',
     'https://pemesanan-online-gelora.vercel.app/api/reviews',
     'https://pemesanan-online-gelora.vercel.app/api/users',
