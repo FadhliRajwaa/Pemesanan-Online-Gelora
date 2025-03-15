@@ -29,11 +29,11 @@ document.getElementById('form-all').addEventListener('submit', async function (e
   // ];
 
   const endpoints = [
-    'https://pemesanan-online-gelora.vercel.app/api/orders',
-    'https://pemesanan-online-gelora.vercel.app/api/products',
-    'https://pemesanan-online-gelora.vercel.app/api/reviews',
-    'https://pemesanan-online-gelora.vercel.app/api/users',
-    'https://pemesanan-online-gelora.vercel.app/api/categories',
+    'https://sistem-online-order-gelora.vercel.app/apiorders',
+    'https://sistem-online-order-gelora.vercel.app/apiproducts',
+    'https://sistem-online-order-gelora.vercel.app/apireviews',
+    'https://sistem-online-order-gelora.vercel.app/apiusers',
+    'https://sistem-online-order-gelora.vercel.app/apicategories',
   ];
   
 
