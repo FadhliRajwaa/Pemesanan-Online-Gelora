@@ -1,5 +1,5 @@
 // const API_URL = 'http://localhost:5000/api'; // Ganti sesuai server kamu
-const API_URL = "https://sistem-online-order-gelora.vercel.app/api";
+const API_URL = "https://sistem-online-order-gelora.vercel.app";
 
 // JavaScript to switch between content sections
 const links = document.querySelectorAll('a[href^="#"]');
