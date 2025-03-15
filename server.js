@@ -8,7 +8,7 @@ const cors = require('cors');
 
 // CORS configuration
 app.use(cors({
-  origin: 'https://sistem-online-order-gelora.vercel.app',  // Ganti dengan URL frontend Anda
+  origin: "https://sistem-online-order-gelora.vercel.app",  // Ganti dengan URL frontend Anda
   methods: ['GET', 'POST', 'PUT', 'DELETE'],
   allowedHeaders: ['Content-Type', 'Authorization']
 }));
